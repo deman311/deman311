@@ -1,7 +1,6 @@
 - 👀 Interested in Game Development, Machine Learning and AI. 
-- 🌱 Seeking to expand my knowledge, skill and practice in my first position as a Software Engineer.
-- ⭐ When interacting with commanders, bosses, collogues and friends throughout my life, the traits I came across most often which they used to described 
-me have been: Serious, Hardworking, Friendly, Fun-to-work-with, Trust-worthy and Intellectual.
+- 🌱 Seeking to expand my knowledge, skill and practice as a Software Engineer.
+- ⭐ When interacting with bosses, collogues and friends the discriptive traits they used for me were: Intellectual, Serious, Hardworking, Friendly and Pleasant-to-work-with.
 - 📫 https://www.linkedin.com/in/deman311/
 
 <!---
